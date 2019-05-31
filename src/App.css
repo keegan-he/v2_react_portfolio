@@ -4,7 +4,7 @@
 
 .logo {
   animation: App-logo-spin infinite 8s linear;
-  height: 40vmin; /* originally set to 40 */
+  height: 0vmin; /* originally set to 40 */
   pointer-events: none;
 }
 
