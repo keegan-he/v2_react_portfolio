@@ -9,6 +9,7 @@ function App() {
       <header className="header">
 
         <img src={logo} className="logo" alt="logo" />
+        <div className="part">
         <Particles
           params={{
             "particles": {
@@ -53,6 +54,7 @@ function App() {
             },
             "retina_detect": true
           }} />
+          </div>
         <h1>
           Hello, <br ></br>
           I'm Keegan Helmbrecht.
