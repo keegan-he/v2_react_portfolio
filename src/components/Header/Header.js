@@ -7,7 +7,6 @@ function Header() {
 		first: 'keegan',
 		last: 'helmbrecht',
 	};
-
 	return (
 		<header className="header">
 			<h1>
@@ -17,14 +16,7 @@ function Header() {
 			<div className="sub">
 				I'm a full stack developer living in the Bay Area.
         </div>
-			<a
-				className="link"
-				href="https://www.linkedin.com/in/keegan-helmbrecht/"
-				target="_blank"
-				rel="noopener noreferrer"
-			>
-				LinkedIn
-        </a>
+
 		</header>
 	);
 }

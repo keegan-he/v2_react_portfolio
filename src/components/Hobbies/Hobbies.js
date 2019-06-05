@@ -1,7 +1,7 @@
 import React from 'react';
 import './Hobbies.css';
 
-function Header() {
+function Hobbies() {
 
 	const aboutme = {
 		hobbies: "music production, synthesizers, cyberpunk movies"
@@ -16,4 +16,4 @@ function Header() {
 
 	);
 }
-export default Header;
+export default Hobbies;
