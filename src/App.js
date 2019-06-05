@@ -9,6 +9,7 @@ function App() {
 		<div>
 			<Header />
 			<div className="header">
+			<Hobbies />
 				<Skills />
 			</div>
 		</div>

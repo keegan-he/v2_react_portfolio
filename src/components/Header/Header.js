@@ -8,10 +8,6 @@ function Header() {
 		last: 'helmbrecht',
 	};
 
-	const aboutme = {
-		hobbies: "music production, synthesizers, cyberpunk movies"
-	};
-
 	return (
 		<header className="header">
 			<h1>
