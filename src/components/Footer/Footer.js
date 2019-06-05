@@ -4,7 +4,6 @@ import './Footer.css';
 function Footer() {
 
 	return (
-
 			<a
 				className="link"
 				href="https://www.linkedin.com/in/keegan-helmbrecht/"
