@@ -1,0 +1,32 @@
+.App {
+    /* text-align: center; */
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  .header {
+    background-color: #304b81;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    background-color: #21D4FD;
+    background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+  }
+  
+  .link {
+    color: #61dafb;
+  }
+  
+  .p {
+    text-align: left;
+    padding: 5vh;
+    
+    
+  }

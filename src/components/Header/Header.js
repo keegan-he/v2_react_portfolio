@@ -3,10 +3,6 @@ import './Header.css';
 
 function Header() {
 
-	const expertise = {
-		skills: "Python - React.js - JavaScript (ES6) - HTML / CSS - Django - Postgres SQL - Bash - Git - Pipenv - React Router - FlexBox & Grid - BEM - MVC - OOP - API engineering - ORM - OOP - Static Site Generation - SPA (Single Page Apps) - Webpack - Test Driven Development - Bootstrap - Agile"
-	};
-
 	const name = {
 		first: 'keegan',
 		last: 'helmbrecht',
@@ -29,7 +25,6 @@ function Header() {
         </div>
 				<div className="p">
 					Technical Expertise: 		<br />
-					{expertise.skills} 			<br />
 					<br />
 					Current Hobbies include:<br />
 					{aboutme.hobbies}
