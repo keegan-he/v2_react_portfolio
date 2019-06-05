@@ -24,8 +24,6 @@ function Header() {
 					I'm a full stack developer living in the Bay Area.
         </div>
 				<div className="p">
-					Technical Expertise: 		<br />
-					<br />
 					Current Hobbies include:<br />
 					{aboutme.hobbies}
 				</div>

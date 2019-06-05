@@ -9,6 +9,7 @@ function Skills () {
     
     return (
         <div>
+        Technical Expertise: 		<br />
         {expertise.skills}
         </div>
 
