@@ -14,7 +14,6 @@ function Header() {
 
 	return (
 		<header className="header">
-
 			<h1>
 				Hello, <br ></br>
 				I'm {name.first}{" " + name.last}.
@@ -22,10 +21,6 @@ function Header() {
 			<div className="sub">
 				I'm a full stack developer living in the Bay Area.
         </div>
-			<div className="p">
-				Current Hobbies include:<br />
-				{aboutme.hobbies}
-			</div>
 			<a
 				className="link"
 				href="https://www.linkedin.com/in/keegan-helmbrecht/"
