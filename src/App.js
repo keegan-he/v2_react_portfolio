@@ -10,7 +10,7 @@ function App() {
 		<div>
 			<Header />
 			<div className="header">
-			<Hobbies />
+				<Hobbies />
 				<Skills />
 				<Footer />
 			</div>
