@@ -14,8 +14,7 @@ function Header() {
 
 	return (
 		<header className="header">
-			<div className="part">
-			</div>
+
 			<h1>
 				Hello, <br ></br>
 				I'm {name.first}{" " + name.last}.
