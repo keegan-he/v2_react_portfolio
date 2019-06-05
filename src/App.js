@@ -8,13 +8,7 @@ function App() {
 		<div>
 			<Header />
 			<div className="header">
-				<div part>
-					<div className="sub">
-						<div className="p">
 							<Skills />
-						</div>
-					</div>
-				</div>
 			</div>
 		</div>
 	);
