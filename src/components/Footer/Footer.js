@@ -1,10 +1,10 @@
 import React from 'react';
 import './Footer.css';
 
-function Header() {
+function Footer() {
 
 	return (
-	
+
 			<a
 				className="link"
 				href="https://www.linkedin.com/in/keegan-helmbrecht/"
