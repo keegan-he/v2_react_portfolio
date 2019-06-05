@@ -7,10 +7,12 @@ function App() {
 	return (
 		<div>
 			<Header />
-
-			<div className="p">
-			<Skills />
+			<div className="sub">
+				<div className="p">
+					<Skills />
+				</div>
 			</div>
+
 		</div>
 	);
 }
