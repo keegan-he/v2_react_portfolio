@@ -7,7 +7,6 @@ function Subheader() {
 			<div className="sub">
 				I'm a full stack developer living in the Bay Area.
         </div>
-
 	);
 }
 export default Subheader;
