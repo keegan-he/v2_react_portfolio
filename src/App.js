@@ -9,8 +9,10 @@ import Subheader from "./components/Subheader/Subheader.js";
 function App() {
   return (
     <div>
-      <Header />
-      <Subheader />
+	  <Header />
+	  <div className="sub">
+	  <Subheader />
+	  </div>
       <Hobbies />
       <Skills />
       <Footer />

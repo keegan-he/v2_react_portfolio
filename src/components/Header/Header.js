@@ -13,9 +13,6 @@ function Header() {
 				Hello, <br ></br>
 				I'm {name.first}{" " + name.last}.
         </h1>
-			<div className="sub">
-				I'm a full stack developer living in the Bay Area.
-        </div>
 		</header>
 	);
 }
