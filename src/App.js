@@ -9,13 +9,13 @@ import Subheader from "./components/Subheader/Subheader.js";
 function App() {
   return (
 	<div className="header">
-    <div>
 	  <Header />
+
 	  <Subheader />
       <Hobbies />
       <Skills />
       <Footer />
-	  </div>
+
     </div>
   );
 }
