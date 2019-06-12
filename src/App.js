@@ -8,12 +8,14 @@ import Subheader from "./components/Subheader/Subheader.js";
 
 function App() {
   return (
+    <div>
     <div className="header">
       <Header />
       <Subheader />
       <Hobbies />
       <Skills />
       <Footer />
+      </div>
     </div>
   );
 }
