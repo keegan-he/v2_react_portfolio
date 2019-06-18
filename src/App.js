@@ -1,21 +1,34 @@
-import React from "react";
-import "./App.css";
-import Header from "./components/Header/Header.js";
-import Skills from "./components/Skills/Skills.js";
-import Hobbies from "./components/Hobbies/Hobbies.js";
-import Footer from "./components/Footer/Footer.js";
-import Subheader from "./components/Subheader/Subheader.js";
+import React from 'react';
+import './App.css';
+import Particles from 'react-particles-js';
 
 function App() {
   return (
-    <div>
-    <div className="header">
-      <Header />
-      <Subheader />
-      <Hobbies />
-      <Skills />
-      <Footer />
-      </div>
+	<div className="App">
+      <header className="header">
+
+        <div className="part">
+          </div>
+        <h1>
+          Hello, <br ></br>
+          I'm Keegan Helmbrecht.
+        </h1>
+        <div className="sub">
+          I'm a full stack developer living in the Bay Area.
+        </div>
+        <div className="p">
+          Technical Expertise: <br ></br>
+          Python - React.js - JavaScript (ES6) - HTML / CSS - Django - Postgres SQL - Bash - Git - Pipenv - React Router - FlexBox & Grid - BEM - MVC - OOP - API engineering - ORM - OOP - Static Site Generation - SPA (Single Page Apps) - Webpack - Test Driven Development - Bootstrap - Agile
+        </div>
+        <a
+          className="link"
+          href="https://www.linkedin.com/in/keegan-helmbrecht/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          LinkedIn
+        </a>
+      </header>
     </div>
   );
 }
