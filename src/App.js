@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import Particles from 'react-particles-js';
 
 function App() {
   return (
@@ -9,7 +8,7 @@ function App() {
         <div className="part">
           </div>
         <h1>
-          Hello, <br ></br>
+          Hello! <br ></br>
           I'm Keegan Helmbrecht.
         </h1>
         <div className="sub">

@@ -5,12 +5,6 @@
   
 }
 
-.logo {
-  /* animation: App-logo-spin infinite 8s linear; */
-  height: 0vmin; /* originally set to 40 */
-  /* pointer-events: none; */
-}
-
 .header {
   background-image: linear-gradient(to top, #c039f7, #8f64ff, #5b7cff, #278bfc, #1296eb);
   min-height: 100vh;
