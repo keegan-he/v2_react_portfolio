@@ -4,9 +4,8 @@ import Particles from 'react-particles-js';
 
 function App() {
   return (
-	<div className="App">
+  <div className="App">
       <header className="header">
-
         <div className="part">
           </div>
         <h1>
