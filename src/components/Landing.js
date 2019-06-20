@@ -14,8 +14,12 @@ class Landing extends Component {
             I'm a full stack developer living in the Bay Area.
           </div>
           <div className="p">
-            Technical Expertise: <br ></br>
-            Python - React.js - JavaScript (ES6) - HTML / CSS - Django - Postgres SQL - Bash - Git - Pipenv - React Router - FlexBox & Grid - BEM - MVC - OOP - API engineering - ORM - OOP - Static Site Generation - SPA (Single Page Apps) - Webpack - Test Driven Development - Bootstrap - Agile
+            Technical Expertise: <br >
+            </br>
+            <br >
+            </br>
+            Python -
+             React.js - JavaScript (ES6) - HTML / CSS - Django - Postgres SQL - Bash - Git - Pipenv - React Router - FlexBox & Grid - BEM - MVC - OOP - API engineering - ORM - OOP - Static Site Generation - SPA (Single Page Apps) - Webpack - Test Driven Development - Bootstrap - Agile
           </div>
           <a
             className="link"
