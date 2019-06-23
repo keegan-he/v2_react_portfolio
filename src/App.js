@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
+import { Layout, Header, Navigation, Drawer, Content, Grid } from 'react-mdl';
 import Main from './components/Main.js';
 import { Link } from 'react-router-dom';
 
@@ -31,9 +31,8 @@ function App() {
             <Main />
         </Content>
     </Layout>
+    
 </div>
-      <header className="header">
-      </header>
     </div>
   );
 }
